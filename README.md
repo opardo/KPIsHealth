@@ -6,7 +6,7 @@ Carlos Omar Pardo Gomez (cop2108@columbia.edu)
 
 ## Legal Rights
 
-The intellectual property of this code is entirely owned by [Kantar Millward Brown (Mexico)] (http://www.millwardbrown.com/mb-global/get-in-touch/office-locations/mexico) and cannot be exploited for any commercial purpose without their consent. Here it is presented just for educational reasons.
+The intellectual property of this code is entirely owned by [Kantar Millward Brown (Mexico)](https://www.millwardbrown.com/mb-global/get-in-touch/office-locations/mexico) and cannot be exploited for any commercial purpose without their consent. Here it is presented just for educational reasons.
 
 ## Overview
 
