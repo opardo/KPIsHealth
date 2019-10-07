@@ -2,11 +2,11 @@
 
 ## Author
 
-Carlos Omar Pardo Gomez (cop2108@columbia.edu)
+Carlos Omar Pardo Gomez (cop2108@columbia.edu) for Kantar Millward Brown (Mexico)
 
 ## Legal Rights
 
-The intellectual property of this code is entirely owned by [Kantar Millward Brown (Mexico)](http://www.millwardbrown.com/mb-global/get-in-touch/office-locations/mexico) and cannot be exploited for any commercial purpose without their consent. Here it is presented just for educational reasons.
+The intellectual property of this code is entirely owned by [Kantar Millward Brown (Mexico)](http://www.millwardbrown.com/mb-global/get-in-touch/office-locations/mexico) and cannot be exploited for any commercial purpose without their consent. Here my first draft is presented only for educational reasons.
 
 ## Overview
 
@@ -41,23 +41,23 @@ Comparisson can be done versus the last month, quarter or year. Also, results ca
 
 #### Brand Status
 
-This table shows if each one of the KPIs is growing, decreasing or with not enough information to think it is doing one of both, by using statistically significant differences.
+This table shows if each one of the KPIs is growing, decreasing or with not enough information to think it is doing one of both, using statistically significant differences.
 
 ![Image of brand status](https://github.com/opardo/KPIsHealth/blob/master/KPIsHealth/images/brand_status.png)
 
 ### Analyse Section
 
-This section allows to deepen into each one of the KPI trends, and understand more how the brand is behaving.
+This section allows to deepen into each one of the KPI trends and understand more how the brand is behaving.
 
 #### Filters
 
-All the analysis in this section can be done by filtering by demographics!
+All the analysis in this section can be done filtering by demographics!
 
 <img src="https://github.com/opardo/KPIsHealth/blob/master/KPIsHealth/images/filters.png" width="200">
 
 #### Latest Change
 
-This tab allows the user to visualize the difference's distribution versus a previous period, for every KPI. This shows how close or far was the metric from the significant difference threshold, and how much uncertainty there is about the real value.
+This tab allows the user to visualize the difference's distribution versus a previous period, for every KPI. This shows how close was the metric from the significant difference threshold, and how much uncertainty there is about the real value.
 
 ![Image of lastest change](https://github.com/opardo/KPIsHealth/blob/master/KPIsHealth/images/latest_change.png)
 
@@ -68,7 +68,7 @@ It shows the time series plot, adding some interesting elements:
 - Real value's confidence interval, taking into account the sampling error (gray shadow)
 - Structural changes found in the series (vertical lines)
 - ARIMA model to forecast the next observations (yellow area)
-- Noise filter by _level_ -kalman filter- or _momentum_ -linear regression by stable period- (blue line)
+- Noise filter by _level_ -kalman filter- or _momentum_ -linear regression for each stable period- (blue line)
 
 ![Image of trend_plot](https://github.com/opardo/KPIsHealth/blob/master/KPIsHealth/images/trend_plot.png)
 
